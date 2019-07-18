@@ -1,0 +1,105 @@
+{
+  "result": {
+    "turns_ran": 1,
+    "initial_grass": 16,
+    "total_grass_mowed": 1,
+    "mowers_alive": 0,
+    "total_square": 16,
+    "game_end_reason": "All mowers dead"
+  },
+  "lawn": {
+    "height": 4,
+    "width": 4,
+    "squares": [
+      {
+        "x": 0,
+        "y": 0,
+        "status": "grass"
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "status": "grass"
+      },
+      {
+        "x": 0,
+        "y": 2,
+        "status": "grass"
+      },
+      {
+        "x": 0,
+        "y": 3,
+        "status": "energy"
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "status": "grass"
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "status": "grass"
+      },
+      {
+        "x": 1,
+        "y": 2,
+        "status": "grass"
+      },
+      {
+        "x": 1,
+        "y": 3,
+        "status": "grass"
+      },
+      {
+        "x": 2,
+        "y": 0,
+        "status": "grass"
+      },
+      {
+        "x": 2,
+        "y": 1,
+        "status": "grass"
+      },
+      {
+        "x": 2,
+        "y": 2,
+        "status": "grass"
+      },
+      {
+        "x": 2,
+        "y": 3,
+        "status": "grass"
+      },
+      {
+        "x": 3,
+        "y": 0,
+        "status": "grass"
+      },
+      {
+        "x": 3,
+        "y": 1,
+        "status": "grass"
+      },
+      {
+        "x": 3,
+        "y": 2,
+        "status": "grass"
+      },
+      {
+        "x": 3,
+        "y": 13,
+        "status": "grass"
+      }
+    ]
+  },
+  "mowers": [
+    {
+      "id": 0,
+      "x": 0,
+      "y": 3,
+      "energy": 1,
+      "state": ""
+    }
+  ]
+}
